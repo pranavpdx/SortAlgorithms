@@ -1,6 +1,6 @@
 # Implementation of Four Different Sorting Algorithms  
 
-This repositry contains the code the four different sorting algorithms, Bubble Sort, Table (Counting) Sort, 
+This repositroy contains the code the four different sorting algorithms, Bubble Sort, Table (Counting) Sort, 
 Selection Sort, and Quick Sort. Additionally, the code preforms the sorting algorithm on one of the input 
 files given and returns the sorted numbers in an output file as well as provides how long the sorting took.
 
